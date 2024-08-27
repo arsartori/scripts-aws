@@ -1,2 +1,2 @@
-# scipts-aws
+# Scripts AWS CLI
 Scripts AWS CLI
